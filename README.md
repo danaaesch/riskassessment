@@ -1,5 +1,5 @@
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+<!-- README.md is  generated from README.Rmd. Please edit that file -->
 
 # The `{riskassessment}` application <a href='https://bit.ly/raa_docs'><img src="man/figures/hex-riskassessment-aspconfig.png" align="right" height="172" style="float:right; height:172px;"/></a>
 
